@@ -1,3 +1,32 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Codespaces
+Marketplace
+Explore
+ 
+@Vkamble61 
+techreturners
+/
+lm-lab-instrumented-devops-bookstore-api
+Public
+Fork your own copy of techreturners/lm-lab-instrumented-devops-bookstore-api
+Code
+Issues
+Pull requests
+Actions
+Projects
+Security
+Insights
+lm-lab-instrumented-devops-bookstore-api/Pipfile.lock
+@eggsy84
+eggsy84 Commit including instrumentation
+Latest commit a0ccd63 on Feb 18, 2022
+ History
+ 1 contributor
+161 lines (161 sloc)  7.98 KB
+
 {
     "_meta": {
         "hash": {
@@ -159,3 +188,18 @@
     },
     "develop": {}
 }
+Footer
+© 2023 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+lm-lab-instrumented-devops-bookstore-api/Pipfile.lock at main · techreturners/lm-lab-instrumented-devops-bookstore-api
