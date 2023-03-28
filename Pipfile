@@ -10,7 +10,6 @@ flask = "*"
 flask-restful = "*"
 flask-cors = "*"
 prometheus-flask-exporter = "*"
-prometheus-flask-exporter = "*"
 
 [requires]
 python_version = "3.8"
