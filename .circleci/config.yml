@@ -14,9 +14,6 @@ workflows:
       - gcp-gcr/build-and-push-image:
           image: devops-bookstore-api
           registry-url: eu.gcr.io
-          tag: '1.1'
+          tag: '1.6'
           requires:
             - "python/test"
-
-         
-
